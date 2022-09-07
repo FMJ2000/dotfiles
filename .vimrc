@@ -1,5 +1,5 @@
-# Vim/Neovim configuration file
-# uses [gruvbox theme](https://github.com/morhetz/gruvbox).
+" Vim/Neovim configuration file
+" uses [gruvbox theme](https://github.com/morhetz/gruvbox).
 
 syntax enable
 filetype plugin indent on
